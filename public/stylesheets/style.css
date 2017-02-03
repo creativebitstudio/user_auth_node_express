@@ -1,0 +1,119 @@
+html {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#head-index {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background-position: bottom;
+    background-size: cover;
+    padding: 1em 0;
+    color: #000;
+    text-align: right;
+}
+
+.nav-index {
+    float: right;
+    margin-top: 20px;
+    display: inline-flex;
+}
+
+.nav-index a {
+    margin-left: 45px;
+}
+
+.btn-info {
+    margin-top: -8px;
+}
+
+#head-index h2 {
+    padding-top: 6em;
+    margin-right: 80px;
+}
+
+#head-index h4 {
+    margin-right: 140px;
+}
+
+#head-index h6 {
+    margin-right: 195px;
+    padding-bottom: 25em;
+}
+
+#footer-index h6 {
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+#head-register {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background-position: bottom;
+    background-size: cover;
+    padding: 22em 0;
+    color: #fff;
+    text-align: right;
+}
+
+#head-register h1 {
+    margin-top: -200px;
+    margin-right: 140px;
+}
+
+form {
+    text-align: left;
+    width: 600px;
+    margin-left: 220px;
+}
+
+#head-register h6 {
+    transform: translateY(140px) translateX(-25em);
+    color: #000;
+}
+
+#head-profile{
+background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background-position: bottom;
+    background-size: cover;
+    padding: 14em 0;
+    color: #fff;
+    text-align: center;
+}
+
+#head-login {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background-position: bottom;
+    background-size: cover;
+    padding: 1em 0;
+    color: #fff;
+    text-align: right;
+}
+
+#head-login h1{
+padding-top: 3em;
+padding-right: 60px;
+}
+
+#head-login form {
+    width: 450px;
+    margin-left: 400px;
+    padding-bottom: 16em;
+}
+
+#header-error {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/O7MEW30-min.jpg");
+    background-position: bottom;
+    background-size: cover;
+    padding: 12em 0;
+    color: #fff;
+    text-align: right;
+}
+
+#header-error h1 {
+    margin-right: 100px;
+    padding-bottom: 140px;
+}

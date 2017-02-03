@@ -1,0 +1,17 @@
+nav.navbar.navbar-default.navbar-static-top
+  .container
+    ul.nav-index
+      a(href='/') Home
+      .nav-items.clearfix
+        if !currentUser
+          a(href='/register') Sign Up
+        a(href='/profile') Profile
+      
+      if currentUser
+        div
+          a.btn.btn-info.pull-md-right(href='/logout') Logout
+      else
+        a.btn.btn-info.pull-md-right(href='login') Login
+
+
+    
